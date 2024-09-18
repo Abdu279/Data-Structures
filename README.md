@@ -8,11 +8,6 @@ This repository contains various **data structures** and **algorithm implementat
   - [1. List of Data Structures](#1-list-of-data-structures)
   - [2. LeetCode Problems](#2-leetcode-problems)
   - [3. GFG Problems](#3-gfg-problems)
-- [Code Snippets and Example Usage](#code-snippets-and-example-usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Overview
 
